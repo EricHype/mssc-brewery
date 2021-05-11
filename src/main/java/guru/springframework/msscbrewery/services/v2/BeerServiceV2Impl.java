@@ -16,7 +16,7 @@ public class BeerServiceV2Impl implements BeerServiceV2 {
                 .id(beerId)
                 .beerName("A test Beer")
                 .beerStyle(BeerStyleEnum.LAGER)
-                .build();;
+                .build();
     }
 
     @Override
